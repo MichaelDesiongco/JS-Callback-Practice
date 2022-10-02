@@ -7,6 +7,6 @@ function move(element) {
     }
 
     return {
-        to: moveToCoordinates
+        to: moveToCoordinates,
     }
 }
